@@ -148,7 +148,7 @@ function tieneTresDigitos(numero){
   //Leer un número entero y retornar true si tiene 3 dígitos. Caso contrario, retorna false.
   //Escribe tu código aquí
 }
-for (numero.int(numero); numero <=999 && numero >= 100; "true")
+for (numero.int(numero); numero <=999 && numero >= 100;) {return "true"}
 
 function doWhile(numero) {
   //Implementar una función tal que vaya aumentando el valor recibido en 5 hasta un límite de 8 veces
@@ -157,7 +157,7 @@ function doWhile(numero) {
 }
 function doWhile(numero){
 let contador = 0;
-do {numero *5 ; contador++ ;}
+do {numero + 5 ; contador++ ;}
 while (contador <= 8 )
  }
   {return numero;
