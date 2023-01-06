@@ -1,0 +1,26 @@
+h1{
+    color:red}
+
+img{
+width: 400px}
+
+.thirdDiv{
+    height:600px ;
+    width: 500px;
+    background-color: black;
+    padding: 50px;
+    border : 1px solid black
+}
+.span{
+    font-size: 18px;
+    margin: 50px;
+}
+body{
+    background-image:url("https://tse1.mm.bing.net/th?id=OIP.quj5lYkCgdQ0KaDNB8mwWwHaE8&pid=Api&P=0") ;
+
+}
+div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
